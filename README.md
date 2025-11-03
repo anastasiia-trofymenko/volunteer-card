@@ -59,4 +59,8 @@ This project is a practical assignment for Sobbatical Impact Travel, where the g
 
 ## Live Demo
 
-Deploy the contents to any static host (e.g., Netlify, Vercel, GitHub Pages) and share the link here.
+GitHub Link: https://anastasiia-trofymenko.github.io/volunteer-card/
+
+\*also pinned in About section on repository page
+
+Netlify Link: https://stalwart-torte-e57415.netlify.app/
